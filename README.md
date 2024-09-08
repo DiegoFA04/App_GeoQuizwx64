@@ -12,7 +12,7 @@ GeoQuiz is an Android application that presents true or false questions about di
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your_username/my-project.git
+   git clone https://github.com/DiegoFA04/App_GeoQuizwx64.git
     ```
 2. Open the project in Android Studio.
 3. Run the application on an emulator or a physical device.
