@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">App_sem3_s1_GeoQuizwx64</string>
+    <string name="es_lima_capital_de_peru">Es Lima Capital de Peru?</string>
+    <string name="si">Si</string>
+    <string name="no">No</string>
+    <string name="siguiente">Siguiente</string>
+</resources>
